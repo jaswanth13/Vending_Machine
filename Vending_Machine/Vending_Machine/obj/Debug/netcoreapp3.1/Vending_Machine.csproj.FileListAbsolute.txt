@@ -1,0 +1,14 @@
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.AssemblyInfoInputs.cache
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.AssemblyInfo.cs
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.csproj.CoreCompileInputs.cache
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\bin\Debug\netcoreapp3.1\Vending_Machine.exe
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\bin\Debug\netcoreapp3.1\Vending_Machine.deps.json
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\bin\Debug\netcoreapp3.1\Vending_Machine.runtimeconfig.json
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\bin\Debug\netcoreapp3.1\Vending_Machine.runtimeconfig.dev.json
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\bin\Debug\netcoreapp3.1\Vending_Machine.dll
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\bin\Debug\netcoreapp3.1\Vending_Machine.pdb
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.dll
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.pdb
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.genruntimeconfig.cache
+C:\Users\nkandukuru\Desktop\Jaswanth\Vending_Machine\Vending_Machine\obj\Debug\netcoreapp3.1\Vending_Machine.csproj.AssemblyReference.cache
